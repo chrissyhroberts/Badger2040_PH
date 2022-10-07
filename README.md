@@ -24,6 +24,18 @@ At the moment this is a quick and dirty fork of the excellent things you'll find
 
 * Our first test is a pretty simple electronic diary, intended to collect daily data about menstruation health.
 
-	* 	Check it out by looking at [Working_Drafts/period.py](Working_Drafts/period.py)
-	*  Obvs it helps if you have a Badger 2040. Buy them [here](https://shop.pimoroni.com/products/badger-2040?variant=39752959852627).
+* 	Check it out by looking at [Working_Drafts/period.py](Working_Drafts/period.py)
+
+
+The functionality here is really basic. The data entry uses the buttons to navigate across the dates, with each page presenting a separate date.
+
+Each day, the participant will fill in the form and as they select and deselect boxes the data are saved in the background to a text file on the device's flash memory. 
+
+![./images/001.jpeg](./images/002.jpeg)
+
+When field team want to take a copy of the data, a separate 'app' [Working_Drafts/QRtransfer.py](Working_Drafts/QRtransfer.py) converts the contents of the text file to a QR code. [ODK](https://github.com/getodk) or similar electronic data management system can then be used to copy the data on to a structured database.
+
+![./images/001.jpeg](./images/001.jpeg)
+
+*  Obvs it helps if you have a Badger 2040. Buy them [here](https://shop.pimoroni.com/products/badger-2040?variant=39752959852627).
 
