@@ -20,7 +20,7 @@ With this project, we're trying to figure out what we can do with Badger 2040 in
 ### About the code
 
 At the moment this is a quick and dirty fork of the excellent things you'll find here
-[https://github.com/pimoroni/pimoroni-pico](https://github.com/pimoroni/pimoroni-pico)
+[https://github.com/pimoroni/pimoroni-pico](https://github.com/pimoroni/pimoroni-pico). 
 
 ### Examples
 
