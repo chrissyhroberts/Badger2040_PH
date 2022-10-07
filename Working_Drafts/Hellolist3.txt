@@ -1,0 +1,2 @@
+ASS,BAS,CCA,DDD,EAS,FAS,GAS,HAS
+{'items_hash': 869620351, 'current_item': 2, 'checked': [False, True, False, False, False, False, False, False]}

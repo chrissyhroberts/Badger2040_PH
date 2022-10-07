@@ -1,0 +1,112 @@
+Full Day | 2022-09-01
+Half Day | 2022-09-01
+Not at school | 2022-09-01
+Holiday | 2022-09-01
+All Classes | 2022-09-01
+Some Classes | 2022-09-01
+No Classes | 2022-09-01
+-
+No Period | 2022-09-01
+Light Period | 2022-09-01
+Moderate Period | 2022-09-01
+Heavy Period | 2022-09-01
+Period Pain | 2022-09-01
+No Period Pain | 2022-09-01 
+-
+-
+Full Day | 2022-09-02
+Half Day | 2022-09-02
+Not at school | 2022-09-02
+Holiday | 2022-09-02
+All Classes | 2022-09-02
+Some Classes | 2022-09-02
+No Classes | 2022-09-02
+-
+No Period | 2022-09-02
+Light Period | 2022-09-02
+Moderate Period | 2022-09-02
+Heavy Period | 2022-09-02
+Period Pain | 2022-09-02
+No Period Pain | 2022-09-02 
+-
+-
+Full Day | 2022-09-03
+Half Day | 2022-09-03
+Not at school | 2022-09-03
+Holiday | 2022-09-03
+All Classes | 2022-09-03
+Some Classes | 2022-09-03
+No Classes | 2022-09-03
+-
+No Period | 2022-09-03
+Light Period | 2022-09-03
+Moderate Period | 2022-09-03
+Heavy Period | 2022-09-03
+Period Pain | 2022-09-03
+No Period Pain | 2022-09-03
+-
+-
+Full Day | 2022-09-04
+Half Day | 2022-09-04
+Not at school | 2022-09-04
+Holiday | 2022-09-04
+All Classes | 2022-09-04
+Some Classes | 2022-09-04
+No Classes | 2022-09-04
+-
+No Period | 2022-09-04
+Light Period | 2022-09-04
+Moderate Period | 2022-09-04
+Heavy Period | 2022-09-04
+Period Pain | 2022-09-04
+No Period Pain | 2022-09-04 
+-
+-
+Full Day | 2022-09-05
+Half Day | 2022-09-05
+Not at school | 2022-09-05
+Holiday | 2022-09-05
+All Classes | 2022-09-05
+Some Classes | 2022-09-05
+No Classes | 2022-09-05
+-
+No Period | 2022-09-05
+Light Period | 2022-09-05
+Moderate Period | 2022-09-05
+Heavy Period | 2022-09-05
+Period Pain | 2022-09-05
+No Period Pain | 2022-09-05
+-
+-
+Full Day | 2022-09-06
+Half Day | 2022-09-06
+Not at school | 2022-09-06
+Holiday | 2022-09-06
+All Classes | 2022-09-06
+Some Classes | 2022-09-06
+No Classes | 2022-09-06
+-
+No Period | 2022-09-06
+Light Period | 2022-09-06
+Moderate Period | 2022-09-06
+Heavy Period | 2022-09-06
+Period Pain | 2022-09-06
+No Period Pain | 2022-09-06
+-
+-
+Full Day | 2022-09-07
+Half Day | 2022-09-07
+Not at school | 2022-09-07
+Holiday | 2022-09-07
+All Classes | 2022-09-07
+Some Classes | 2022-09-07
+No Classes | 2022-09-07
+-
+No Period | 2022-09-07
+Light Period | 2022-09-07
+Moderate Period | 2022-09-07
+Heavy Period | 2022-09-07
+Period Pain | 2022-09-07
+No Period Pain | 2022-09-07
+-
+-

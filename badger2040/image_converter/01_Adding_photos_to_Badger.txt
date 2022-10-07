@@ -1,0 +1,25 @@
+Adding Photos to Badger
+
+Open up a terminal.
+
+pip3 install Pillow
+
+Download the pimoroni-pico repo to your computer: 
+
+git clone https://github.com/pimoroni/pimoroni-pico
+
+Navigate to the image converter tool: 
+
+cd pimoroni-pico/examples/badger2040/image_converter
+
+Then, assuming your starting image file is in the same directory as 'convert.py', you can convert it like this (adding in your own file names): 
+
+python3 convert.py --binary --resize image_file_1.png
+
+creates .bin file
+
+
+
+
+
+import _launcher
