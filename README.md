@@ -4,6 +4,8 @@
 
 The Badger 2040 is a really neat device that puts a programmable python-based OS on to a credit-card sized device that comes complete with some buttons (essentially a D pad + enter) and a small e-ink screen. 
 
+At the moment, this is an early prototype of the concept, which we hope to develop further in the near future. 
+
 Key features are
 
 * This can be used as a data entry or health records device for research and clinical trials.
